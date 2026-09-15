@@ -20,3 +20,5 @@
 ## Como Sair de JR para Pleno
 
 ## Como Sair de Pleno para Sênior 
+
+## Base de Conhecimento
