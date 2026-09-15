@@ -22,3 +22,4 @@
 ## Como Sair de Pleno para Sênior 
 
 ## Base de Conhecimento
+- <a href ="https://github.com/lucasnoellk/Carreira/wiki/Base-de-Conhecimento"> Links Importantes
