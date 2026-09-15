@@ -1,6 +1,6 @@
 # Carreira
 
-## Como conseguir um Estágio  
+## Como Conseguir um Estágio  
 
 ## Como Sair de Estagiário para JR
 - PDI
